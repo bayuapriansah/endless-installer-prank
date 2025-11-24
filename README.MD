@@ -2,6 +2,8 @@
 
 A harmless prank script that simulates a never-ending software installation process. Perfect for pranking your friends, coworkers, or anyone who thinks their system is being updated!
 
+> **Note**: This README documents the concept and specifications for an endless installer prank script. The actual script implementation can be created in any language (Bash, Python, JavaScript, etc.) following the guidelines described below.
+
 ## 🎯 What Is This?
 
 This is a **prank script** that creates the illusion of a legitimate software installation process. It looks completely real, but it's all just for show - nothing is actually being installed or modified on your system.
@@ -54,16 +56,15 @@ The victim will see:
 
 ### Basic Usage
 ```bash
-# Run the prank script
-./endless-installer.sh
+# Run the prank script (once implemented)
+./endless-installer.sh    # For Bash version
+# or
+python endless-installer.py    # For Python version
+# or  
+node endless-installer.js      # For JavaScript version
 ```
 
-or
-
-```bash
-# If using Python version
-python endless-installer.py
-```
+> **Note**: The actual script implementation can be created based on your preferred language and platform.
 
 ### Tips for Maximum Effect
 
